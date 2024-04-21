@@ -5,9 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raju-borah" alt="raju-borah" /></a> </p>
 
+- 🔭 I’m currently working on **React**
+
 - 💬 Ask me about **JavaScript, React, Flutter, Laravel**
 
-- 📄 Know about my experiences [3+ years](3+ years)
+- 📄 Know about my experiences [3+](3+)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
