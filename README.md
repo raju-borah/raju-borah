@@ -19,7 +19,7 @@
 - 💬 Ask me about **JavaScript, TypeScript, React, Laravel, Flutter**
 - 🌱 Exploring **AI integrations and system design**
 - 🧑‍💻 4+ years of experience in front-end and full-stack development
-- 📫 Reach me at **rajumoniborah.dev@gmail.com**
+
 
 ---
 
